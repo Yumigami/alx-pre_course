@@ -1,2 +1,1 @@
-my first readme
-^C
+another readme for git 0x01 git
